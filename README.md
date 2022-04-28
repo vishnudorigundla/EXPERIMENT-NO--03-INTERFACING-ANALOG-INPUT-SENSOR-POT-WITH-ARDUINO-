@@ -3,7 +3,9 @@
 
 
 
-# **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
+# **AIM**:  
+
+To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
 
 # **COMPONENTS REQUIRED:**
@@ -38,7 +40,7 @@ General specifications of analog sensor
 	4.Compatiblity
 	5. signal conversion capability
 
-# **Potentiometer**
+# **Potentiometer**:
 A potentiometer, informally a pot, is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
 CIRCUIT DIAGRAM
@@ -100,7 +102,7 @@ void loop()
 
 
 **
-# **Simulation output:
+# Simulation output:
 
 
 ![1](https://user-images.githubusercontent.com/94175324/165758345-3ac901e0-a341-4ab6-a980-7d31f252df07.png)
@@ -110,6 +112,6 @@ void loop()
 
 
 
-# **RESULT: 
+# RESULT: 
 
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
