@@ -15,7 +15,7 @@ To interface a Analog  input (angular displacement sensor POT) and scale the val
 4.	USB Interfacing cable 
 5.	Connecting wires 
 6.	LED of choice 
-**
+
 
 
 # **THEORY**: 
@@ -96,16 +96,6 @@ void loop()
 }
 ```
  
-
-
-
-
-
-
-
-
-
-**
 # Simulation output:
 
 
